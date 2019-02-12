@@ -1,4 +1,4 @@
-<nav>
+<nav id="nav--primary">
   <ul>
     <li><a href="/mixtapes">Mixes</a></li>
     <li><a href="/about">About</a></li>

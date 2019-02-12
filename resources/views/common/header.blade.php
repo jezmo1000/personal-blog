@@ -8,16 +8,7 @@
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
-  <header>
-    
+  <header id="site--header">
 
   </header>
   @include('nav.nav-primary')
-
-  @yield('content')
-
-  <footer>
-
-  </footer>
-</body>
-</html>
